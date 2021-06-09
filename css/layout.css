@@ -54,6 +54,7 @@ nav > .clearfix > li .align_right2 a:hover {color:#ccc;}
 #con_1{margin-top:70px;}
 #con_1 li{width:49.5%; height:320px; margin-left:1%; margin-top:1%; background-size:100%; background-position:center; transition:1s; background-size:100% 100%;}
 #con_1 li:hover{background-size:110% 110%;}
+#con_li{background-size:110% 110%;}
 #con_1 li:nth-child(2n+1){margin-left:0;}
 #con_1 li:nth-child(1){background-image:url("../img/content/1/1.jpg");}
 #con_1 li:nth-child(2){background-image:url("../img/content/1/2.jpg");}
